@@ -7,3 +7,6 @@
 3.查看文件提交记录
 • 执行 git log 文件名 进行查看历史记录
 • git log --pretty=oneline 文件名 简易信息查看
+4.回退历史
+• git reset --hard HEAD^ 回退到上一次提交
+• git reset --hard HEAD~n 回退n次操作
