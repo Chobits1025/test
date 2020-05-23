@@ -4,3 +4,6 @@
 • 提交文件到本地库 git commit
 • 编写注释 ，完成提交
 • 或者也可以git commit –m “注释内容”, 直接带注释提交
+3.查看文件提交记录
+• 执行 git log 文件名 进行查看历史记录
+• git log --pretty=oneline 文件名 简易信息查看
