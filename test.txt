@@ -13,3 +13,5 @@
 5.版本穿越
 • 进行查看历史记录的版本号，执行 git reflog 文件名
 • 执行 git reset --hard 版本号
+6.还原文件
+• git checkout -- 文件名
