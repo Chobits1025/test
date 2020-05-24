@@ -15,3 +15,6 @@
 • 执行 git reset --hard 版本号
 6.还原文件
 • git checkout -- 文件名
+➢ 7.删除某个文件
+• 先删除文件
+• 再git add 再提交
